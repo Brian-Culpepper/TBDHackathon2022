@@ -1,10 +1,16 @@
+import './index.css'
+import SongInfo from '../SongInfo'
+import MainPageCenter from '../MainPageCenter'
+import AlbumCover from '../AlbumCover'
 const Home = () => {
     return (
         <>
-        <div>
-            <p>
-                React app.
-            </p>
+        <div className="container main-page">
+            <SongInfo/>
+            <AlbumCover/> 
+            <MainPageCenter/>
+             {/* 
+            <HeaderAndFooter/>*/}
         </div>
         </>
     )
