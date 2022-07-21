@@ -1,0 +1,22 @@
+{
+  "name": "tbdhackathon2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brian-Culpepper/TBDHackathon2022.git"
+  },
+  "dependencies": {
+    "song-lyrics-api": "^1.1.0"
+  },
+  "author": "Team TBD (The Best Developers)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brian-Culpepper/TBDHackathon2022/issues"
+  },
+  "homepage": "https://github.com/Brian-Culpepper/TBDHackathon2022#readme"
+}
