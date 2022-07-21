@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Brian-Culpepper/TBDHackathon2022.git"
   },
   "dependencies": {
+    "express": "^4.18.1",
     "genius-lyrics": "^4.3.8"
   },
   "author": "Team TBD (The Best Developers)",
