@@ -156,3 +156,417 @@ export const abbaLyrics = [
       "lyrics": "Diggin' the dancing queen "
     }
   ]
+
+  export const LOAPV1 = [
+    {
+      "seconds": 38,
+      "lyrics": "ONCE UPON A TIME NOT SO LONG AGO"
+    },
+    {
+      "seconds": 45,
+      "lyrics": "TOMMY USED TO WORK ON THE DOCKS "
+    },
+    {
+      "seconds": 49,
+      "lyrics": "UNION'S BEEN ON STRIKE "
+    },
+    {
+      "seconds": 51,
+      "lyrics": "HE'S DOWN ON HIS LUCK, IT'S TOUGH "
+    },
+    {
+      "seconds": 56,
+      "lyrics": "SO TOUGH "
+    },
+    {
+      "seconds": 61,
+      "lyrics": "GINA WORKS THE DINER ALL DAY "
+    },
+    {
+      "seconds": 65,
+      "lyrics": "WORKING FOR HER MAN "
+    },
+    {
+      "seconds": 67,
+      "lyrics": "SHE BRINGS HOME HER PAY FOR LOVE "
+    },
+    {
+      "seconds": 71,
+      "lyrics": "OOH, FOR LOVE "
+    },
+    {
+      "seconds": 75,
+      "lyrics": "SHE SAYS, WE'VE GOTTA HOLD ON TO WHAT WE'VE GOT "
+    },
+    {
+      "seconds": 80,
+      "lyrics": "IT DOESN'T MAKE A DIFFERENCE IF WE MAKE IT OR NOT "
+    },
+    {
+      "seconds": 84,
+      "lyrics": "WE'VE GOT EACH OTHER AND THAT'S A LOT "
+    },
+    {
+      "seconds": 88,
+      "lyrics": "FOR LOVE, WE'LL GIVE IT A SHOT "
+    },
+    {
+      "seconds": 92,
+      "lyrics": "OH, WE'RE HALF-WAY THERE "
+    },
+    {
+      "seconds": 96,
+      "lyrics": "OH, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 100,
+      "lyrics": "TAKE MY HAND, WE'LL MAKE IT I SWEAR "
+    },
+    {
+      "seconds": 104,
+      "lyrics": "OH, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 112,
+      "lyrics": "TOMMY'S GOT HIS SIX STRING IN HOCK "
+    },
+    {
+      "seconds": 116,
+      "lyrics": "NOW HE'S HOLDING IN "
+    },
+    {
+      "seconds": 117,
+      "lyrics": "WHAT HE USED TO MAKE IT TALK SO TOUGH "
+    },
+    {
+      "seconds": 122,
+      "lyrics": "OOH, IT'S TOUGH "
+    },
+    {
+      "seconds": 128,
+      "lyrics": "GINA DREAMS OF RUNNING AWAY "
+    },
+    {
+      "seconds": 131,
+      "lyrics": "SHE CRIES IN THE NIGHT, TOMMY WHISPERS "
+    },
+    {
+      "seconds": 134,
+      "lyrics": "BABY, IT'S OKAY "
+    },
+    {
+      "seconds": 138,
+      "lyrics": "SOMEDAY "
+    },
+    {
+      "seconds": 142,
+      "lyrics": "WE'VE GOTTA HOLD ON TO WHAT WE'VE GOT "
+    },
+    {
+      "seconds": 147,
+      "lyrics": "IT DOESN'T MAKE A DIFFERENCE IF WE MAKE IT OR NOT "
+    },
+    {
+      "seconds": 151,
+      "lyrics": "WE'VE GOT EACH OTHER AND THAT'S A LOT "
+    },
+    {
+      "seconds": 154,
+      "lyrics": "FOR LOVE, WE'LL GIVE IT A SHOT "
+    },
+    {
+      "seconds": 159,
+      "lyrics": "OH, WE'RE HALF-WAY THERE "
+    },
+    {
+      "seconds": 163,
+      "lyrics": "OH, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 167,
+      "lyrics": "TAKE MY HAND AND WE'LL MAKE IT I SWEAR "
+    },
+    {
+      "seconds": 171,
+      "lyrics": "OH, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 174,
+      "lyrics": "LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 194,
+      "lyrics": "OOH "
+    },
+    {
+      "seconds": 195,
+      "lyrics": "WE'VE GOTTA HOLD ON READY OR NOT "
+    },
+    {
+      "seconds": 200,
+      "lyrics": "YOU LIVE FOR THE FIGHT WHEN THAT'S ALL THAT YOU'VE GOT "
+    },
+    {
+      "seconds": 203,
+      "lyrics": "WHOA, WE'RE HALF-WAY THERE "
+    },
+    {
+      "seconds": 207,
+      "lyrics": "WHOA, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 211,
+      "lyrics": "TAKE MY HAND AND WE'LL MAKE IT, I SWEAR "
+    },
+    {
+      "seconds": 215,
+      "lyrics": "WHOA, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 219,
+      "lyrics": "WHOA, WE'RE HALF-WAY THERE "
+    },
+    {
+      "seconds": 223,
+      "lyrics": "WHOA, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 226,
+      "lyrics": "TAKE MY HAND AND WE'LL MAKE IT, I SWEAR "
+    },
+    {
+      "seconds": 230,
+      "lyrics": "WHOA, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 234,
+      "lyrics": "WHOA, WE'RE HALF-WAY THERE "
+    },
+    {
+      "seconds": 238,
+      "lyrics": "WHOA, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 242,
+      "lyrics": "TAKE MY HAND AND WE'LL MAKE IT, I SWEAR "
+    }
+  ]
+
+  export const LOAPV2 = [
+    {
+      "seconds": 0,
+      "lyrics": "(music)"
+    },
+    {
+      "seconds": 38,
+      "lyrics": "ONCE UPON A TIME NOT SO LONG AGO"
+    },
+    {
+      "seconds": 42,
+      "lyrics": "(music)"
+    },
+    {
+      "seconds": 45,
+      "lyrics": "TOMMY USED TO WORK ON THE DOCKS "
+    },
+    {
+      "seconds": 49,
+      "lyrics": "UNION'S BEEN ON STRIKE "
+    },
+    {
+      "seconds": 51,
+      "lyrics": "HE'S DOWN ON HIS LUCK, IT'S TOUGH "
+    },
+    {
+      "seconds": 56,
+      "lyrics": "SO TOUGH "
+    },
+    {
+      "seconds": 58,
+      "lyrics": "(music)"
+    },
+    {
+      "seconds": 61,
+      "lyrics": "GINA WORKS THE DINER ALL DAY "
+    },
+    {
+      "seconds": 65,
+      "lyrics": "WORKING FOR HER MAN "
+    },
+    {
+      "seconds": 67,
+      "lyrics": "SHE BRINGS HOME HER PAY FOR LOVE "
+    },
+    {
+      "seconds": 71,
+      "lyrics": "OOH, FOR LOVE "
+    },
+    {
+      "seconds": 75,
+      "lyrics": "SHE SAYS, WE'VE GOTTA HOLD ON TO WHAT WE'VE GOT "
+    },
+    {
+      "seconds": 80,
+      "lyrics": "IT DOESN'T MAKE A DIFFERENCE IF WE MAKE IT OR NOT "
+    },
+    {
+      "seconds": 84,
+      "lyrics": "WE'VE GOT EACH OTHER AND THAT'S A LOT "
+    },
+    {
+      "seconds": 88,
+      "lyrics": "FOR LOVE, WE'LL GIVE IT A SHOT "
+    },
+    {
+      "seconds": 92,
+      "lyrics": "OH, WE'RE HALF-WAY THERE "
+    },
+    {
+      "seconds": 96,
+      "lyrics": "OH, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 100,
+      "lyrics": "TAKE MY HAND, WE'LL MAKE IT I SWEAR "
+    },
+    {
+      "seconds": 104,
+      "lyrics": "OH, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 108,
+      "lyrics": "(music)"
+    },
+    {
+      "seconds": 112,
+      "lyrics": "TOMMY'S GOT HIS SIX STRING IN HOCK "
+    },
+    {
+      "seconds": 116,
+      "lyrics": "NOW HE'S HOLDING IN "
+    },
+    {
+      "seconds": 117,
+      "lyrics": "WHAT HE USED TO MAKE IT TALK SO TOUGH "
+    },
+    {
+      "seconds": 122,
+      "lyrics": "OOH, IT'S TOUGH "
+    },
+    {
+      "seconds": 125,
+      "lyrics": "(music)"
+    },
+    {
+      "seconds": 128,
+      "lyrics": "GINA DREAMS OF RUNNING AWAY "
+    },
+    {
+      "seconds": 131,
+      "lyrics": "SHE CRIES IN THE NIGHT, TOMMY WHISPERS "
+    },
+    {
+      "seconds": 134,
+      "lyrics": "BABY, IT'S OKAY "
+    },
+    {
+      "seconds": 138,
+      "lyrics": "SOMEDAY "
+    },
+    {
+      "seconds": 142,
+      "lyrics": "WE'VE GOTTA HOLD ON TO WHAT WE'VE GOT "
+    },
+    {
+      "seconds": 147,
+      "lyrics": "IT DOESN'T MAKE A DIFFERENCE IF WE MAKE IT OR NOT "
+    },
+    {
+      "seconds": 151,
+      "lyrics": "WE'VE GOT EACH OTHER AND THAT'S A LOT "
+    },
+    {
+      "seconds": 154,
+      "lyrics": "FOR LOVE, WE'LL GIVE IT A SHOT "
+    },
+    {
+      "seconds": 159,
+      "lyrics": "OH, WE'RE HALF-WAY THERE "
+    },
+    {
+      "seconds": 163,
+      "lyrics": "OH, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 167,
+      "lyrics": "TAKE MY HAND AND WE'LL MAKE IT I SWEAR "
+    },
+    {
+      "seconds": 171,
+      "lyrics": "OH, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 174,
+      "lyrics": "LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 178,
+      "lyrics": "(music)"
+    },
+    {
+      "seconds": 194,
+      "lyrics": "OOH "
+    },
+    {
+      "seconds": 195,
+      "lyrics": "WE'VE GOTTA HOLD ON READY OR NOT "
+    },
+    {
+      "seconds": 200,
+      "lyrics": "YOU LIVE FOR THE FIGHT WHEN THAT'S ALL THAT YOU'VE GOT "
+    },
+    {
+      "seconds": 203,
+      "lyrics": "WHOA, WE'RE HALF-WAY THERE "
+    },
+    {
+      "seconds": 207,
+      "lyrics": "WHOA, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 211,
+      "lyrics": "TAKE MY HAND AND WE'LL MAKE IT, I SWEAR "
+    },
+    {
+      "seconds": 215,
+      "lyrics": "WHOA, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 219,
+      "lyrics": "WHOA, WE'RE HALF-WAY THERE "
+    },
+    {
+      "seconds": 223,
+      "lyrics": "WHOA, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 226,
+      "lyrics": "TAKE MY HAND AND WE'LL MAKE IT, I SWEAR "
+    },
+    {
+      "seconds": 230,
+      "lyrics": "WHOA, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 234,
+      "lyrics": "WHOA, WE'RE HALF-WAY THERE "
+    },
+    {
+      "seconds": 238,
+      "lyrics": "WHOA, LIVIN' ON A PRAYER "
+    },
+    {
+      "seconds": 242,
+      "lyrics": "TAKE MY HAND AND WE'LL MAKE IT, I SWEAR "
+    }
+  ]
