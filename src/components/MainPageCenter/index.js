@@ -6,8 +6,8 @@ const MainPageCenter = () => {
             <button type="button" className="container lyric-btn">Lyrics</button>
         </div>
         <div>
-            <p className="container SongName">Mean Mr. Mustard</p>
-            <p className="container Artist">The Beatles</p>
+            <p className="container SongName">Dancing Queen</p>
+            <p className="container Artist">ABBA</p>
         </div>
         </>
     )
