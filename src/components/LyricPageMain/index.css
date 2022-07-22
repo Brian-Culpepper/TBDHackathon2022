@@ -3,7 +3,12 @@
     color: white;
 
 }
-
+.lyricHeader {
+    float: left;
+}
+/* .SongInfo {
+    float:right;
+} */
 /* .lyrics {
     height: 14px;
 } */
