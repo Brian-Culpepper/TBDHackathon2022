@@ -8,7 +8,7 @@ const MainPageCenter2 = () => {
     return (
       <>
       <div>
-          <Link className='lyricButton' to="/LyricPageMain">Lyrics</Link>
+          <Link className='lyricButton' to="/LyricPageMain2">Lyrics</Link>
           <div className="container like-dislike">
               <input type="image" src={dislike} alt="dislike button" className="container dislike"/>
               <input type="image" src={like} alt="like button" className="container like"/>
