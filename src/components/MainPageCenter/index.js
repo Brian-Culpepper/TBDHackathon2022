@@ -3,6 +3,7 @@ import like from "../MainPageCenter/Like.png"
 import dislike from "../MainPageCenter/Dislike.png"
 import React, { useState, useEffect } from "react";
 import url from "../MainPageCenter/Abba_-_Dancing_Queen_Official_Musi_(getmp3.pro).mp3"
+import { Link } from "react-router-dom";
 
 const useAudio = url => {
     const [audio] = useState(new Audio(url));
@@ -37,7 +38,8 @@ const MainPageCenter = () => {
     return (
         <>
         <div>
-            <button type="button" className="container lyric-btn">Lyrics</button>
+            {/* <button type="button" className="container lyric-btn">Lyrics</button> */}
+            <Link to="/LyricPageMain">Lyrics</Link>
             <div className="container like-dislike">
                 <input type="image" src={dislike} alt="dislike button" className="container dislike"/>
                 <input type="image" src={like} alt="like button" className="container like"/>
