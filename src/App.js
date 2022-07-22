@@ -2,30 +2,20 @@
 import './App.css';
 import {Routes, Route} from 'react-router-dom'
 import Home from './components/Home';
+// import Home2 from './components/Home2';
+// import LyricPageMain from './components/LyricPageMain';
+// import LyricPageMain2 from './components/LyricPageMain2';
 
 function App() {
   return (
     <Routes>
       <Route path="/" element={<Home/>}>
-
+        <Route index element={<Home/>}/>
+        {/* <Route path="lyricpagemain" element={<LyricPageMain />}/> */}
+      {/* <Route path="home2" element={<Home2 />}/>
+      <Route path="lyricpagemain2" element={<LyricPageMain2 />}/> */}
       </Route>
     </Routes>
-    // <div className="App">
-    //   <header className="App-header">
-    //     <img src={logo} className="App-logo" alt="logo" />
-    //     <p>
-    //       Edit <code>src/App.js</code> and save to reload.
-    //     </p>
-    //     <a
-    //       className="App-link"
-    //       href="https://reactjs.org"
-    //       target="_blank"
-    //       rel="noopener noreferrer"
-    //     >
-    //       Learn React
-    //     </a>
-    //   </header>
-    // </div>
   );
 }
 

@@ -2,16 +2,19 @@ import './index.css'
 import SongInfo from '../SongInfo'
 import MainPageCenter from '../MainPageCenter'
 import AlbumCover from '../AlbumCover'
+import Footer from '../Footer'
+
 const Home = () => {
     return (
         <>
-        <div className="container main-page">
-            <SongInfo/>
-            <AlbumCover/> 
-            <MainPageCenter/>
-             {/* 
-            <HeaderAndFooter/>*/}
-        </div>
+        <html className='main-page'>
+            <div>
+                <SongInfo/>
+                <AlbumCover/> 
+                <MainPageCenter/>
+                <Footer/>
+            </div>
+        </html>
         </>
     )
 }

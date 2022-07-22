@@ -4,3 +4,10 @@
 .Artist{
     color: lightgrey;
 }
+.LyricButton {
+    color: black;
+    background: white;
+    padding: 6px 6px;
+    margin-top: 25px;
+    border:black;
+}
