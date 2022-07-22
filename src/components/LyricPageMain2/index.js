@@ -12,7 +12,7 @@ const LyricPageMain2 = () => {
     return (
         <>
         <div className='lyricHeader'>
-            <Link className='home' to="/" ><input type="image" name="skip" src={home} width='75' height='75' alt='skip'/></Link>
+            <Link className='home' to="/LivinOnAPrayer" ><input type="image" name="skip" src={home} width='75' height='75' alt='skip'/></Link>
         </div>    
             <div className='SongInfo'>
                 <label className="container SongName">Livin' on a Prayer</label>
