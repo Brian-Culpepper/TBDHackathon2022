@@ -10,11 +10,11 @@ const LyricPageMain = () => {
     let currentDelay = 0;
     return (
         <>
-        <marquee direction='up' behavior="scroll" scrolldelay={currentDelay} height="150px" loop ="0">
+        <marquee direction='up' behavior="scroll" scrollamount="3" scrolldelay={currentDelay} height="150px" loop ="0">
         <div className="lyric-container">
             {songs[0].map((data, key) => {
                 totalTime += (data.seconds * 1000);
-                currentDelay = ((data.seconds * 100) - totalTime);
+                currentDelay = ((data.seconds * 1000) - totalTime);
             return (
                 <div className='lyrics' id="div">
                 {data.lyrics}

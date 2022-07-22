@@ -1,12 +1,12 @@
 export const abbaLyrics = [
-    {
-      "seconds": 2,
-      "lyrics": "(upbeat disco music)"
-    },
-    {
-      "seconds": 19,
-      "lyrics": "Ooh, ooh"
-    },
+    // {
+    //   "seconds": 2,
+    //   "lyrics": "(upbeat disco music)"
+    // },
+    // {
+    //   "seconds": 19,
+    //   "lyrics": "Ooh, ooh"
+    // },
     {
       "seconds": 22,
       "lyrics": "You can dance, you can jive "
