@@ -41,13 +41,14 @@ const Footer = () => {
     return (
         <>
             <div className='footer'>
-                <input className='queueMargin' type="image" name="addToPlaylist" src={addToPlaylist} width='50' height='50' alt='addToPlaylist'/>
-                <input className='playAndPause' type="image" name="replay" src={replay} width='50' height='50' alt='replay'/>
+                <input className='queueMargin' type="image" name="addToPlaylist" src={addToPlaylist} width='40' height='40' alt='addToPlaylist'/>
+                <input className='playAndPause' type="image" name="replay" src={replay} width='40' height='40' alt='replay'/>
                 <input className='playAndPause' type="image" name="play" src={play} width='50px' height='50px' onClick={toggle} alt='play'/>
-                <input type="image" name="skip" src={skip} width='50' height='50' alt='skip'/>
+                <input type="image" name="skip" src={skip} width='40' height='40' alt='skip'/>
                 {/* <button className='playAndPause' onClick={toggle}>{playing ? "Pause" : "Play"}</button> */}
                 <br></br>
-                <input type="image" name="connect" src={connect} width='50' height='50' alt='connect'/>
+                <input className='connectMargin' type="image" name="connect" src={connect} width='25' height='25' alt='connect'/>
+                <p className='connectDevice'>Connect a device</p>
             </div>
         </>
     )

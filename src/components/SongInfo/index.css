@@ -1,3 +1,9 @@
 .radio-station{
     color: #FFFFFF;
+    margin-left: 5px;
+}
+.live-radio {
+    color: lightgray;
+    margin-top: -15px;
+    margin-left: 5px;
 }
