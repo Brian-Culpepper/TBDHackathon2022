@@ -6,7 +6,7 @@ const SongInfo = () => {
             <p className="radio-station">
                 106.7 The Eagle
             </p>
-            <p id= "live-radio">
+            <p className="live-radio">
                 Live Radio
             </p>
         </div>

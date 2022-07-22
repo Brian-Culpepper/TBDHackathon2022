@@ -1,3 +1,13 @@
-div {
+.lyric-container {
+    /* height: 14px; */
     color: white;
+
+}
+
+/* .lyrics {
+    height: 14px;
+} */
+
+.footer-div {
+    padding-top: 15px;
 }

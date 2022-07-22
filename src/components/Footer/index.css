@@ -1,15 +1,27 @@
 .footer {
     position: absolute;
-    background:gray;
+    /* background:gray; */
     bottom: 0;
     width: 100%;
-    height: 17.5%;
+    height: 9.5%;
 }
 
 .queueMargin {
-    margin-right: 5px;
+    margin-left: 15px;
+    margin-right: 10px;
 }
 
 .playAndPause {
     margin-right: 25px;
+}
+
+.connectMargin {
+    margin-top: 10px;
+    margin-left: 143px;
+}
+.connectDevice {
+    color: white;
+    font-size: x-small;
+    padding-left: 120px;
+    margin-top: 0px;
 }

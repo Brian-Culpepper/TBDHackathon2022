@@ -2,10 +2,23 @@
     color: white;
     margin-top: 0em;
     margin-bottom: 0em;
+    margin-left: 5px;
+}
+.lyricButton {
+    background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 260px;
+  border-radius: 10px;
 }
 .Artist{
     color: lightgrey;
     margin-top: 0em;
+    margin-left: 5px;
 }
 .lyric-btn{
     margin-left: 325px;
@@ -14,13 +27,19 @@
     margin-bottom: 0em;
 }
 
-.like, .dislike{
-    width: 5%;
-    height: 5%;
+.like {
+    width: 10%;
+    height: 10%;
+    float: right;
+    margin-right: 10px;
+}
+.dislike{
+    width: 10%;
+    height: 10%;
     float: right;
 }
 
 .like-dislike{
     margin-top: 2rem;
-    margin-right: 55rem;
+    margin-right: 60rem;
 }
