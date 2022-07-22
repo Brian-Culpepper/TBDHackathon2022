@@ -10,8 +10,8 @@ const MainPageCenter = () => {
                 <input type="image" src={dislike} alt="dislike button" className="container dislike"/>
                 <input type="image" src={like} alt="like button" className="container like"/>
             </div>
-            <p className="container SongName">Mean Mr. Mustard</p>
-            <p className="container Artist">The Beatles</p>
+            <p className="container SongName">Dancing Queen</p>
+            <p className="container Artist">ABBA</p>
         </div>
         </>
     )
