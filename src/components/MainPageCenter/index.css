@@ -1,13 +1,26 @@
 .SongName{
     color: white;
+    margin-top: 0em;
+    margin-bottom: 0em;
 }
 .Artist{
     color: lightgrey;
+    margin-top: 0em;
 }
-.LyricButton {
-    color: black;
-    background: white;
-    padding: 6px 6px;
-    margin-top: 25px;
-    border:black;
+.lyric-btn{
+    margin-left: 325px;
+    background-color: white;
+    border-radius: 12px;
+    margin-bottom: 0em;
+}
+
+.like, .dislike{
+    width: 5%;
+    height: 5%;
+    float: right;
+}
+
+.like-dislike{
+    margin-top: 2rem;
+    margin-right: 55rem;
 }
