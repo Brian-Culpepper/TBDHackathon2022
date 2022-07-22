@@ -1,12 +1,14 @@
 import './index.css'
 import {abbaLyrics, LOAPV1, LOAPV2} from "../../data.js"
-import Footer from '../../components/Footer'
+import Footer2 from '../../components/Footer2'
 import {Link} from 'react-router-dom'
-import home from '../../components/AlbumCover2/BonJovi.jpg'
+import home from '../AlbumCover2/BonJovi.jpg'
 
 const songs = [abbaLyrics, LOAPV1, LOAPV2];
 
 const LyricPageMain2 = () => {
+    let totalTime = 0;
+    let currentDelay = 0;
     return (
         <>
         <div className='lyricHeader'>
@@ -20,6 +22,9 @@ const LyricPageMain2 = () => {
         <br></br>
         <br></br>
         <br></br>
+
+        <marquee direction='up' behavior="scroll" scrollamount="3" scrolldelay={currentDelay} height="150px" loop ="0">
+
         <div className="lyric-container">
             {songs[1].map((data, key) => {
             return (
@@ -29,8 +34,15 @@ const LyricPageMain2 = () => {
             );
             })}
         </div>
+        </marquee>
+        <br></br>
+        <div className='footer-div'>
+            <Footer2/>
+        </div>
         </>
     );
+
+    
 }
 
 export default LyricPageMain2
