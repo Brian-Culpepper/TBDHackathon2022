@@ -3,6 +3,7 @@ import {abbaLyrics, LOAPV1, LOAPV2} from "../../data.js"
 import Footer from '../../components/Footer'
 import {Link} from 'react-router-dom'
 import home from '../../components/AlbumCover/ABBA.png'
+import banner from '../LyricPageMain/Banner Ad.png'
 
 const songs = [abbaLyrics, LOAPV1, LOAPV2];
 const song = songs[0];
@@ -24,7 +25,9 @@ const LyricPageMain = () => {
         <br></br>
         <br></br>
         <br></br>
-
+        <div className='banner'>
+            <img src={banner} alt="BannerAd for Babble" width="250" height='50'></img>
+        </div>
         <marquee direction='up' behavior="scroll" scrollamount="3" scrolldelay={currentDelay} height="150px" loop ="0">
 
         <div className="lyric-container">
