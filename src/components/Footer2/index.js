@@ -5,7 +5,7 @@ import replay from '../../assets/images/Replay.png'
 import play from '../../assets/images/Play.png'
 import skip from '../../assets/images/Skip.png'
 // import pause from '../../assets/images/Pause.png'
-import url from "../MainPageCenter/Abba_-_Dancing_Queen_Official_Musi_(getmp3.pro).mp3"
+import url from "../MainPageCenter2/Bon_Jovi_-_Livin_On_A_Prayer_Offi_(getmp3.pro).mp3"
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom"; 
 

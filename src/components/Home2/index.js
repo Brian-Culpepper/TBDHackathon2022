@@ -2,7 +2,7 @@ import './index.css'
 import SongInfo from '../SongInfo'
 import MainPageCenter2 from '../MainPageCenter2'
 import AlbumCover2 from '../AlbumCover2'
-import Footer from '../Footer'
+import Footer2 from '../Footer2'
 
 const Home2 = () => {
     return (
@@ -12,7 +12,7 @@ const Home2 = () => {
                 <SongInfo/>
                 <AlbumCover2/> 
                 <MainPageCenter2/>
-                <Footer/>
+                <Footer2/>
             </div>
         </html>
         </>
