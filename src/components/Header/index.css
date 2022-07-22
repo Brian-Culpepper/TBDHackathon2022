@@ -1,0 +1,23 @@
+.radio-station{
+    color: #FFFFFF;
+    /* margin-left: 5px; */
+    text-align: right;
+    padding-top: 50px;
+}
+.live-radio {
+    color: lightgray;
+    margin-top: -15px;
+    margin-left: 45px;
+
+}
+.expand {
+    float: left;
+}
+.share-icon {
+    margin-left: 140px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+/* .more-icon {
+    align-items: right;
+} */
