@@ -8,7 +8,7 @@ const Home = () => {
     return (
         <>
         <html className='main-page'>
-            <div>
+            <div className='items'>
                 <SongInfo/>
                 <AlbumCover/> 
                 <MainPageCenter/>

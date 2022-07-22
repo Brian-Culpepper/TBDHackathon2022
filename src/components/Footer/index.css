@@ -1,0 +1,15 @@
+.footer {
+    position: absolute;
+    background:gray;
+    bottom: 0;
+    width: 100%;
+    height: 17.5%;
+}
+
+.queueMargin {
+    margin-right: 5px;
+}
+
+.playAndPause {
+    margin-right: 25px;
+}
